@@ -1,2 +1,2 @@
 # FUNDAMENTALS_OF_DATA_ANALYTICS
-FUNDAMENTALS_OF_DATA_ANALYTICS HW &amp; Project
+Fundamentals of Data Analytics HW
